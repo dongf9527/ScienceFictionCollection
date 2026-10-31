@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-18",
+  "scope": "全部作者目录的文件名年份覆盖检查及逐项事实核对汇总；各篇的出处、版本口径和未决原因见verification.json。",
+  "baselineCommit": "5142af7979d136d72776014a5a63d9d3d384d8f0",
+  "verificationRecord": "verification.json",
+  "summary": {
+    "authors": 13,
+    "registeredWorkFiles": 211,
+    "filesWithYear": 209,
+    "filesMissingYear": 2,
+    "excludedReferenceFiles": 6,
+    "correctedYears": 30,
+    "correctedOriginalAttributions": 1,
+    "uncertainYearOrAttribution": 5,
+    "correctedVersionLabels": 1
+  },
+  "authors": [
+    {
+      "authorId": "001",
+      "authorName": "刘慈欣",
+      "directory": "001 - 刘慈欣(Cixin Liu)",
+      "registeredWorkFiles": 51,
+      "filesWithYear": 51,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 3,
+      "excludedReferenceFiles": [
+        "0-刘慈欣汇总.md"
+      ]
+    },
+    {
+      "authorId": "002",
+      "authorName": "弗兰克·赫伯特",
+      "directory": "002 - Frank Herbert(弗兰克·赫伯特)",
+      "registeredWorkFiles": 3,
+      "filesWithYear": 3,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "003",
+      "authorName": "艾萨克·阿西莫夫",
+      "directory": "003 - Isaac Asimov(艾萨克·阿西莫夫)",
+      "registeredWorkFiles": 63,
+      "filesWithYear": 62,
+      "filesMissingYear": 1,
+      "uncertainYearOrAttribution": 1,
+      "excludedReferenceFiles": [
+        "0-IsaacAsimov.md"
+      ]
+    },
+    {
+      "authorId": "004",
+      "authorName": "儒勒·凡尔纳",
+      "directory": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)",
+      "registeredWorkFiles": 24,
+      "filesWithYear": 24,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": [
+        "0-凡尔纳汇总.md"
+      ]
+    },
+    {
+      "authorId": "005",
+      "authorName": "玛丽·雪莱",
+      "directory": "005 - Mary Shelley(玛丽·雪莱)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 1,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "006",
+      "authorName": "雷·布拉德伯里",
+      "directory": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)",
+      "registeredWorkFiles": 21,
+      "filesWithYear": 21,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "007",
+      "authorName": "奥森·斯科特·卡德",
+      "directory": "007 - Orson Scott Card(奥森·斯科特·卡德)",
+      "registeredWorkFiles": 6,
+      "filesWithYear": 6,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": [
+        "0-卡德汇总.md"
+      ]
+    },
+    {
+      "authorId": "008",
+      "authorName": "特德·姜",
+      "directory": "008 - Ted Chiang(特德·姜)",
+      "registeredWorkFiles": 7,
+      "filesWithYear": 7,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": [
+        "0-特德姜汇总.md"
+      ]
+    },
+    {
+      "authorId": "009",
+      "authorName": "迈克尔·斯万维克",
+      "directory": "009 - Michael Swanwick (迈克尔·斯万维克) ",
+      "registeredWorkFiles": 5,
+      "filesWithYear": 5,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "010",
+      "authorName": "王晋康",
+      "directory": "010 - 王晋康",
+      "registeredWorkFiles": 27,
+      "filesWithYear": 27,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "011",
+      "authorName": "安迪·威尔",
+      "directory": "011 - Andy Weir(安迪·威尔)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 1,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "012",
+      "authorName": "亚瑟·克拉克",
+      "directory": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 1,
+      "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
+      "excludedReferenceFiles": [
+        "0-亚瑟·克拉克汇总.md"
+      ]
+    },
+    {
+      "authorId": "013",
+      "authorName": "亚瑟·柯南·道尔",
+      "directory": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 0,
+      "filesMissingYear": 1,
+      "uncertainYearOrAttribution": 1,
+      "excludedReferenceFiles": []
+    }
+  ],
+  "unresolved": [
+    {
+      "authorId": "003",
+      "bookId": "003-dc2adbecdeca",
+      "title": "鬼扯",
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+      "year": null,
+      "reason": "未找到能消除阿西莫夫/韩松同文异署名冲突的原刊、作者或出版社记录；中文二次转载不独立构成署名证据。检索摘要中的1995年10期与相邻《黑鳏夫酒家的聚餐会》条目有关，不能移用为《鬼扯》日期。保留原文件及原署名，初刊年继续空缺。",
+      "reviewRecord": "follow-up-2026-10-18.json"
+    },
+    {
+      "authorId": "013",
+      "bookId": "003-c056bb6968f0",
+      "title": "被遗忘的世界",
+      "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
+      "year": null,
+      "reason": "原作归属及1912年已确认。相同节写文本的二次转载出现“张荣华译”线索，但这些转载也沿用错误的阿西莫夫署名，且未提供原刊、版权页或节写者资料，不能据此确定译者或版本年份。保留正文、柯南·道尔归属和无年份文件名。",
+      "reviewRecord": "follow-up-2026-10-18.json"
+    }
+  ],
+  "uncertain": [
+    {
+      "authorId": "001",
+      "bookId": "001-cfd761fe0618",
+      "title": "超新星纪元（1991年二稿·网络整理本）",
+      "path": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(1991年二稿-网络整理本).txt",
+      "retainedYear": 1991,
+      "reason": "据作者提供稿本的版本研究及本地FG、糖城、对日战争和交换国土等特征，对应1991年二稿；本文件还附有2002年后记，属于网络整理本，不称最终完整版。首次公开时间待考。"
+    },
+    {
+      "authorId": "001",
+      "bookId": "001-58df442a4ae1",
+      "title": "海水高山",
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-2]《海水高山》.txt",
+      "retainedYear": 2003,
+      "reason": "原刊/作者资料能确认2003征文获奖和后来扩写为《山》；尚未找到获奖稿的首发原刊。年表列2014年重刊，另有2005年网络版本的二手线索，故不能把2014认定为首发，也不以2003获奖年充当已确认的发表年。保留原文件与2003标记。"
+    },
+    {
+      "authorId": "001",
+      "bookId": "001-06a912a96d1b",
+      "title": "创世纪",
+      "path": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
+      "retainedYear": 2005,
+      "reason": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。2026-10-19已补入用户提供的37页PDF提取文本，文末落款为“2002年4月23日2稿于娘子关”；该日期为稿本落款，不作初刊日期。尚未取得原刊扫描逐字比对，保留文件名2005标记及初刊版本待核状态。"
+    },
+    {
+      "authorId": "013",
+      "bookId": "003-c056bb6968f0",
+      "title": "被遗忘的世界",
+      "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
+      "retainedYear": null,
+      "reason": "原作归属及1912年已确认。相同节写文本的二次转载出现“张荣华译”线索，但这些转载也沿用错误的阿西莫夫署名，且未提供原刊、版权页或节写者资料，不能据此确定译者或版本年份。保留正文、柯南·道尔归属和无年份文件名。"
+    },
+    {
+      "authorId": "003",
+      "bookId": "003-dc2adbecdeca",
+      "title": "鬼扯",
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+      "retainedYear": null,
+      "reason": "未找到能消除阿西莫夫/韩松同文异署名冲突的原刊、作者或出版社记录；中文二次转载不独立构成署名证据。检索摘要中的1995年10期与相邻《黑鳏夫酒家的聚餐会》条目有关，不能移用为《鬼扯》日期。保留原文件及原署名，初刊年继续空缺。"
+    }
+  ],
+  "latestFollowUp": "follow-up-2026-10-18.json",
+  "lastUpdatedOn": "2026-10-19"
+}
